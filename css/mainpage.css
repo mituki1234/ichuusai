@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.title-box {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+}
+.logo {
+    justify-content: flex-start;
+    align-items: center;
+    object-fit: cover;
+    height: 100%;
+}
+.title-image {
+    justify-content: center;
+    align-items: center;
+    height: 60%;
+    width: 15%;
+    object-fit: cover;
+    margin: auto;
+}
+.fixed-button {
+    position: fixed;
+    bottom: 20px; /* 下からの距離 */
+    left: 20px;   /* 左からの距離 */
+    width: 60px;
+    height: 60px;
+    background-color: #4CAF50;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%; /* ボタンの角を少し丸くする */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* 少し影をつける */
+    cursor: pointer;
+}
+.menu-box {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 6vh;
+    background-color: #f4f4f4;
+}
