@@ -59,6 +59,9 @@ body {
 }
 .main-image {
     width: 60%;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
     position: relative;
     object-fit: cover;
 }
