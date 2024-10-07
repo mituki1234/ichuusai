@@ -74,6 +74,7 @@ body {
     
     animation: image-switch-animation 25s infinite;
 }
+@import url("../css/move-image.css");
 .src1 {
     background-image: url(https://github.com/ohtasoji/sample-app/assets/16428443/bce8cff5-4a9a-429a-b8e3-33ff82b2fc17);
   }
