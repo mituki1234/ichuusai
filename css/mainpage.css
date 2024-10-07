@@ -73,8 +73,11 @@ body {
     bottom: 0;
     right: 0;
     opacity: 0;
-    background-size: cover;
     background-position: center center;
-    
+    width: 60%;
+    height: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
     animation: image-switch-animation 25s infinite;
 }

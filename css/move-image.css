@@ -1,42 +1,17 @@
 .src1 {
     background-image: url(https://github.com/ohtasoji/sample-app/assets/16428443/bce8cff5-4a9a-429a-b8e3-33ff82b2fc17);
-    width: 60%;
-    height: auto;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
   }
   .src2 {
     background-image: url(https://github.com/ohtasoji/sample-app/assets/16428443/0001f1ef-5c1c-40b3-a310-68182c5485c3);
-    width: 60%;
-    height: auto;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
   }
   .src3 {
     background-image: url(https://github.com/ohtasoji/sample-app/assets/16428443/2c6d06e3-1076-450b-8009-534953605bb7);
-    width: 60%;
-    height: auto;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
   }
   .src4 {
     background-image: url(https://github.com/ohtasoji/sample-app/assets/16428443/389faaf0-cfdb-47c9-93a7-df0876e15682);
-    width: 60%;
-    height: auto;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
   }
   .src5 {
     background-image: url(https://github.com/ohtasoji/sample-app/assets/16428443/653d2463-7c13-46d6-be2a-f39432da262c);
-    width: 60%;
-    height: auto;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
   }
 @keyframes image-switch-animation {
     0%{ opacity: 0;}
