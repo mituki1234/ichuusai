@@ -59,7 +59,7 @@ body {
 }
 .main-image {
     width: 60%;
-    height: auto;
+    min-height: 600px;
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
@@ -67,7 +67,7 @@ body {
 }
 .image {
     width: 100%;
-    height: 20em;
+    height: auto;
     position: absolute;
     top: 0;
     left: 0;
